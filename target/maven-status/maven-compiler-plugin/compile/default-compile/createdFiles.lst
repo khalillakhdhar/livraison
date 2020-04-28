@@ -1,0 +1,8 @@
+com\example\livraison\model\Avis.class
+com\example\livraison\model\Message.class
+com\example\livraison\model\Commande.class
+com\example\livraison\model\Produit.class
+com\example\livraison\exception\ResourceNotFoundException.class
+com\example\livraison\model\User.class
+com\example\livraison\model\Categorie.class
+com\example\livraison\LivraisonApplication.class
